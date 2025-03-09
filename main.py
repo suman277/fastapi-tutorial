@@ -6,3 +6,4 @@ app=FastAPI()
 def hoome():
     return "Home Page"
 
+print("Hello World")
